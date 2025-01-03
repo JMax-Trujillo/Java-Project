@@ -9,5 +9,7 @@ package multiserviciossalinos;
  * @author nanci
  */
 public class PROBLEMA4 {
-    
+    public static void ejecutable4(){
+        // Kevin
+    }
 }

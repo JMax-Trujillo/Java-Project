@@ -9,5 +9,7 @@ package multiserviciossalinos;
  * @author nanci
  */
 public class PROBLEMA2 {
-    
+    public static void ejecutable2(){
+        // Max
+    }
 }
